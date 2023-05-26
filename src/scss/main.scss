@@ -460,6 +460,9 @@ input::-webkit-inner-spin-button {
 }
 
 @media (max-width: 1115px) {
+  .thanks-section__footer .footer__links {
+    padding-left: 0;
+  }
   .thanks-section__footer {
     flex-direction: column;
     justify-content: center;
